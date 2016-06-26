@@ -19,7 +19,7 @@ http://eagle.ss-ny.futegram.me:8080/spo324ha/750/playlist.m3u8
 http://79.124.58.34:1935/liveedge/ch21-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="GLOBOSAT",Globo [COLOR gray] RS[/COLOR] [COLOR yellow]ON[/COLOR]
-http://31.204.152.6:8081/live/sptvh/playlist.m3u8
+http://31.204.152.6:8081/live/sptvh/ptlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="GLOBOSAT",Globo [COLOR gray] RJ[/COLOR] [COLOR yellow]ON[/COLOR]
 http://213.163.65.9:8081/live/globok/playlist.m3u8?IPTVONLINE
@@ -1161,7 +1161,7 @@ http://srv6.zoeweb.tv:1935/z632-live/stream/livestream.m3u8
 http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
 
 
-#EXTINF:-1, tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario.png" tvg-logo="" group-title="REGIONAIS",TV DIARIO[COLOR gray] SD [/COLOR] [COLOR yellow]ON[/COLOR]
+#EXTINF: tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario.png" tvg-logo="" group-title="REGIONAIS",TV DIARIO[COLOR gray] SD [/COLOR] [COLOR yellow]ON[/COLOR]
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
 
 #EXTINF:-1,Tv Guaruja
