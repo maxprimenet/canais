@@ -1,0 +1,21 @@
+#EXTM3U
+####################################################################################################################################################
+####################################################################################################################################################
+#PLAYLISTV: pltv-logo="https://goo.gl/wHZIoC" pltv-name="ONSeries" pltv-description="" pltv-cover="https://goo.gl/dXtkIs" pltv-author="PMachado" 
+pltv-site="http://bit.ly/DoarOnSerieS" pltv-email="pmachado@n5x.mobi" pltv-phone="4196550164"
+#EXTINF:0 tvg-logo="https://goo.gl/wHZIoC" group-title="Sua lista de series.",Sua lista de series.
+http://myonseries.blogspot.com
+#EXTINF:0 tvg-logo="https://goo.gl/wHZIoC" group-title="A mais completa.",A mais completa.
+http://myonseries.blogspot.com
+#EXTINF:0 tvg-logo="https://goo.gl/wHZIoC" group-title="LEG-MOB -> CELULAR(SD)",LEG-MOB -> CELULAR
+http://myonseries.blogspot.com
+#EXTINF:0 tvg-logo="https://goo.gl/wHZIoC" group-title="LEG-TV -> TV(HD)",LEG-TV -> TV
+http://myonseries.blogspot.com
+#EXTINF:0 tvg-logo="https://goo.gl/wHZIoC" group-title="Atualizado 21/05",Atualizado 21/05
+http://myonseries.blogspot.com
+#EXTINF:0 tvg-logo="https://goo.gl/YzhaxI" group-title="Use Wiseplay",Use Wiseplay
+http://myonseries.blogspot.com
+#EXTINF:0 tvg-logo="https://goo.gl/jrBeOM" group-title="Serie Off? Avise!",Mande um Whats
+http://myonseries.blogspot.com
+#EXTINF:0 tvg-logo="https://goo.gl/jrBeOM" group-title="Serie Off? Avise!",(41)9655-0164
+http://myonseries.blogspot.com
