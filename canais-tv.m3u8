@@ -140,9 +140,6 @@ http://79.124.58.34:1935/liveedge/ch21-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title="TV ABERTA", Band [COLOR blue][I][B]HD [/B][/I][/COLOR]
 http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title="TV ABERTA", Band [COLOR blue][I][B]HD 1[/B][/I][/COLOR]
-http://104.156.60.74:1935/televisaocidadeverde/televisaocidadeverde/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title="TV ABERTA", Band [COLOR blue][I][B]HD 2[/B][/I][/COLOR]
 http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/live.m3u8
 
